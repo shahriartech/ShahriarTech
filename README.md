@@ -29,21 +29,6 @@
 
 ---
 
-### 🌟 Featured Repositories
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ShahriarTech&repo=repo-name-1&theme=radical)](https://github.com/ShahriarTech/repo-name-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ShahriarTech&repo=repo-name-2&theme=radical)](https://github.com/ShahriarTech/repo-name-2)
-
----
-
-### 🎯 Current Focus
-
-- 🔭 I'm currently working on: **[Project Name]**
-- 🌱 I'm currently learning: **[Technology/Skill]**
-- 👯 I'm looking to collaborate on: **Open Source Projects**
-
----
-
 ### 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shahriartech)
 
