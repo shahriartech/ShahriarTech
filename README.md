@@ -1,56 +1,57 @@
-<h1 align="center">Hi 👋, I'm Shahriar Fahad</h1>
-<h3 align="center">A passionate full-stack developer | they/them</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahriartech&label=Profile%20views&color=0e75b6&style=flat" alt="shahriartech" />
-</p>
+# 👋 Hi there, I'm Shahriar Fahad (they/them)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahriartech&theme=darkhub&no-frame=true&margin-w=15" alt="shahriartech" />
-  </a>
-</p>
+### 🚀 Full-Stack Developer | Code Enthusiast | Problem Solver
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/shahriartech" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="shahriartech" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-
-<h3 align="left">My GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartech&show_icons=true&locale=en&layout=compact&theme=dark" alt="shahriartech" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriartech&show_icons=true&locale=en&theme=dark" alt="shahriartech" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartech&theme=dark" alt="shahriartech" />
-</p>
-
-<h3 align="left">My Contribution Graph:</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shahriartech&theme=react-dark" alt="Contribution Graph" />
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shahriartech)
 
 ---
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love" />
-</p>
+### 💻 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Sails.js](https://img.shields.io/badge/-Sails.js-14ACC2?style=flat-square&logo=sailsdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=dot-net&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ShahriarTech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarTech&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+
+---
+
+### 🌟 Featured Repositories
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ShahriarTech&repo=repo-name-1&theme=radical)](https://github.com/ShahriarTech/repo-name-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ShahriarTech&repo=repo-name-2&theme=radical)](https://github.com/ShahriarTech/repo-name-2)
+
+---
+
+### 🎯 Current Focus
+
+- 🔭 I'm currently working on: **[Project Name]**
+- 🌱 I'm currently learning: **[Technology/Skill]**
+- 👯 I'm looking to collaborate on: **Open Source Projects**
+
+---
+
+### 📫 How to reach me:
+
+✉️ [t.me/ShahriarTech](https://t.me/+wi-HIDxFX6hlNGE1)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=ShahriarTech&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+</div>
