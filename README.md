@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, I'm Shahriar Fahad (they/them)
+# 👋 Hi there, I'm Shahriar Fahad 
 
 ### 🚀 Full-Stack Developer | Code Enthusiast | Problem Solver
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shahriartech)
 
 ---
 
@@ -47,8 +45,7 @@
 ---
 
 ### 📫 How to reach me:
-
-✉️ [t.me/ShahriarTech](https://t.me/+wi-HIDxFX6hlNGE1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shahriartech)
 
 ---
 
