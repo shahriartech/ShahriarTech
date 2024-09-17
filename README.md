@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Shahriar Fahad 
 
-### 🚀 Full-Stack Developer | Code Enthusiast | Problem Solver
+### 🚀 Full-Stack Developer | Code Enthusiast
 
 ---
 
@@ -33,7 +33,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shahriartech)
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=ShahriarTech&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
